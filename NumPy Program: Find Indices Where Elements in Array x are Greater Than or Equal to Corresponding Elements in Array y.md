@@ -25,6 +25,7 @@ print("Indices where x >= y:", indices[0])
 ~~~
 
 ## Output
+<img width="766" height="314" alt="image" src="https://github.com/user-attachments/assets/9ad37f0f-8604-4df7-8da8-238ead9ff8eb" />
 
 ## Result
 Thus,the program has been executed successfully.
