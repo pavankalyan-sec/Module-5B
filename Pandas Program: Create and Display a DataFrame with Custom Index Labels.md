@@ -36,6 +36,8 @@ print(df)
 
 ~~~
 ## Output
+<img width="821" height="444" alt="image" src="https://github.com/user-attachments/assets/8c71bc35-f84c-4870-a650-2b5e74317ffc" />
+
 
 ## Result
 Thus, the program has been executed successfully.
