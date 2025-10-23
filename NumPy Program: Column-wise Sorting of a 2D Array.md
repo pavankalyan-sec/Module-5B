@@ -25,6 +25,7 @@ print(sorted_array)
 ~~~
 
 ## Output
+<img width="835" height="462" alt="image" src="https://github.com/user-attachments/assets/13b9c6c7-fad1-41c9-8699-865e4448189f" />
 
 ## Result
 Thus,the program has been executed successfully.
