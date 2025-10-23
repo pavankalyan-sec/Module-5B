@@ -27,6 +27,7 @@ print("\nModified Array (after replacing 2nd column):")
 print(array_modified)
 ~~~
 ## Output
+<img width="883" height="563" alt="image" src="https://github.com/user-attachments/assets/62364f6b-d88f-4f07-bf75-d7d18fb8800f" />
 
 ## Result
 Thus,the program has been executed successfully.
